@@ -1,0 +1,19 @@
+{
+    "name": "t73biz/rss2pdf",
+    "description": "Rss 2 PDF parser and Converter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronald Chaplin",
+            "email": "rchaplin@t73biz.com"
+        }
+    ],
+    "require": {
+        "ensepar/html2pdf": "1.0.1"
+    },
+     "autoload": {
+         "psr-0": {
+             "Core": "src"
+         }
+     }
+}
